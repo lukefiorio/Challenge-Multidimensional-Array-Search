@@ -11,6 +11,7 @@ function locate(array, target) {
       }
     }
   }
+
   // if make it through recursive loop without finding target then return false
   return false;
 }
